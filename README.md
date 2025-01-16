@@ -1,4 +1,4 @@
-# This is our implementation for the paper: Dynamic Spillover Networks: Leveraging Lead-Lag Phenomena for Stock Prediction
+# This is our implementation for the submitted paper.
 
 ## Enviroments
 * NVIDIA A100, Driver == 535.129
